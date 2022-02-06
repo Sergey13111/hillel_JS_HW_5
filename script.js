@@ -125,3 +125,4 @@ if (points >= 0 && points <=100) {
 }
 alert(`Ваша оценка: ${points} ${stringPoints}`);
 
+console.log("New feature")
